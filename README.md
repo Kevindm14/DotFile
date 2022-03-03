@@ -1,0 +1,1 @@
+# DotFile Config for NVIM and Fish v1
